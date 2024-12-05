@@ -90,8 +90,10 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Head First Design Patterns](https://amzn.to/3AmTYEN)
 - [Clean Code](https://amzn.to/4hgxN3S)
 - [Refactoring: Improving the Design of Existing Code](https://amzn.to/3YyuH3Y)
+- [Object-Oriented Thought Process, The (Developer's Library) ](https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272/?tag=javamysqlanta-20)
 
 ## Additional resources
 
 - [Coursera - Design Patterns](https://www.coursera.org/learn/design-patterns)
 - [Github - Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [Github - Complete DataStructure and Algorithms](https://github.com/dhanushkumar-amk/DATASTRUCTURES-AND-ALGORITHMS)
